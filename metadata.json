@@ -1,0 +1,5 @@
+{
+  "name": "AI Metadata Generator",
+  "description": "An AI-powered tool to generate premium, SEO-friendly titles, keywords, and categories for Adobe Stock images and videos using multiple Google AI Studio API keys for parallel processing and high reliability.",
+  "requestFramePermissions": []
+}
